@@ -1,5 +1,9 @@
 # Shuffle-Matrix
 
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/shuffle-matrix)
+[![npm](https://img.shields.io/npm/dt/express.svg)]([![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/shuffle-matrix))
+[![npm](https://img.shields.io/npm/l/express.svg)]([![npm](https://img.shields.io/npm/dt/express.svg)]([![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/shuffle-matrix)))
+
 A JavaScript implementation of the Fisher-Yates Shuffle algorithm for array and matrix.
 
 ## Requirements
