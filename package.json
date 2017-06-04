@@ -10,6 +10,10 @@
     "Array",
     "Matrix"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChengXu1973/shuffle-matrix.git"
+  },
   "author": {
     "name": "chengxu1973",
     "email": "chengxu1973@outlook.com"
